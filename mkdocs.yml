@@ -1,0 +1,12 @@
+site_name: VulnCanvas Documentation
+site_url: https://gauravagarwalgarg.github.io/VulnCanvas/docs
+repo_url: https://github.com/gauravagarwalgarg/VulnCanvas
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - End-to-End CVE Process: cve-process.md
