@@ -3,3 +3,6 @@ dist/
 .env
 .DS_Store
 examples/
+cve-summary-*.json
+gain-*.json
+*.spdx.json
