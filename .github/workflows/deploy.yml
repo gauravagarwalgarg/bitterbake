@@ -1,4 +1,4 @@
-name: Deploy VulnCanvas to GitHub Pages
+name: Deploy bitterbake to GitHub Pages
 
 on:
   push:

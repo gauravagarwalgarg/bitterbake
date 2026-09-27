@@ -1,7 +1,7 @@
 {
   "name": "bitterbake",
   "version": "1.0.0",
-  "description": "VulnCanvas - Static serverless web app for CVE and SBOM analysis",
+  "description": "bitterbake - Static serverless web app for CVE and SBOM analysis",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -1,6 +1,6 @@
 # System Architecture
 
-VulnCanvas is built on a modern, lightweight static site architecture to ensure high performance and maximum security (zero-trust). 
+bitterbake is built on a modern, lightweight static site architecture to ensure high performance and maximum security (zero-trust). 
 
 ## Design Philosophy
 

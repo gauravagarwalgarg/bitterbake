@@ -1,6 +1,6 @@
-site_name: VulnCanvas Documentation
-site_url: https://gauravagarwalgarg.github.io/VulnCanvas/docs
-repo_url: https://github.com/gauravagarwalgarg/VulnCanvas
+site_name: bitterbake Documentation
+site_url: https://gauravagarwalgarg.github.io/bitterbake/docs
+repo_url: https://github.com/gauravagarwalgarg/bitterbake
 theme:
   name: material
   palette:
